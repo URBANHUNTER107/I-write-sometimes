@@ -140,6 +140,6 @@ so i guess i'm working on the right thing.
 
 ---
 
-*Mohd Farhan Abbas — second year CSE at DY Patil International University. DevRel intern at ProjectX (YC P26), working on InfinityOS. i also do data analysis and SQL stuff and occasionally contribute to open source.*
+*Mohd Farhan Abbas — DevRel intern at ProjectX (YC P26), working on InfinityOS. i also do data analysis and SQL stuff and occasionally contribute to open source.*
 
-*[GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/) · [Twitter/X](https://x.com/)*
+*[GitHub]([https://github.com/](https://github.com/URBANHUNTER107)) · [LinkedIn](www.linkedin.com/in/mohd-farhan-abbas-704a2b2a8) *
